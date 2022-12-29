@@ -8,4 +8,13 @@
 https://gnuykob.tistory.com/78
 
 ✧ day 2 조건문, 반복문, 배열  
-https://gnuykob.tistory.com/79
+https://gnuykob.tistory.com/79  
+
+✧ day 3-4 클래스와 객체  
+https://gnuykob.tistory.com/81  
+
+✧ day 5 상속  
+https://gnuykob.tistory.com/82?category=922898  
+
+✧ day 6 추상클래스, 인터페이스, 중첩클래스    
+https://gnuykob.tistory.com/83?category=922898
