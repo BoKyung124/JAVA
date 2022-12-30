@@ -14,7 +14,7 @@ https://gnuykob.tistory.com/79
 https://gnuykob.tistory.com/81  
 
 ✧ day 5 상속  
-https://gnuykob.tistory.com/82?category=922898  
+https://gnuykob.tistory.com/82  
 
 ✧ day 6 추상클래스, 인터페이스, 중첩클래스    
-https://gnuykob.tistory.com/83?category=922898
+https://gnuykob.tistory.com/83
