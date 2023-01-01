@@ -17,4 +17,7 @@ https://gnuykob.tistory.com/81
 https://gnuykob.tistory.com/82  
 
 ✧ day 6 추상클래스, 인터페이스, 중첩클래스    
-https://gnuykob.tistory.com/83
+https://gnuykob.tistory.com/83  
+
+✧ day7 자바 API 패키지, 예외처리, 모듈  
+https://gnuykob.tistory.com/84
