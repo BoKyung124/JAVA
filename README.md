@@ -25,8 +25,8 @@ https://gnuykob.tistory.com/84
 ✧ day8 자바 GUI 기초  
 https://gnuykob.tistory.com/86  
 
-✧ day9 이벤트 처리
+✧ day9 이벤트 처리  
 https://gnuykob.tistory.com/87   
 
-✧ day10 스윙 컴포넌트
+✧ day10 스윙 컴포넌트  
 https://gnuykob.tistory.com/88
