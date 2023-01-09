@@ -20,4 +20,13 @@ https://gnuykob.tistory.com/82
 https://gnuykob.tistory.com/83  
 
 ✧ day7 자바 API 패키지, 예외처리, 모듈  
-https://gnuykob.tistory.com/84
+https://gnuykob.tistory.com/84  
+
+✧ day8 자바 GUI 기초  
+https://gnuykob.tistory.com/86  
+
+✧ day9 이벤트 처리
+https://gnuykob.tistory.com/87   
+
+✧ day10 스윙 컴포넌트
+https://gnuykob.tistory.com/88
